@@ -1,4 +1,4 @@
-# V2Ray Heroku
+# good
 
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/lxx20120918/v2ray-heroku/tree/vless) 分支。**
 
